@@ -1,281 +1,212 @@
-{
-  "PRNY-DLY-6033-XEUL": {
-    "claimed": true,
-    "claimed_at": "2026-06-03 01:42 PM",
-    "claimed_by_discord": "amiwa.grxy (832165782095659008)",
-    "expiry": "2026-06-06 01:42 PM",
-    "macho_code": "4911016922786982876",
-    "menu_username": "SNOWY",
-    "type": "3 Days"
+[
+  {
+    "key": "4911016922786982876",
+    "expires": "2030-10-01T12:00:00Z",
+    "user": "kyll",
+    "admin": true
   },
-  "PRNY-DLY-YGEB-FV8Y": {
-    "claimed": false,
-    "claimed_at": "None",
-    "menu_username": "None",
-    "type": "3 Days"
+  {
+    "key": "4904383127413000512",
+    "expires": "2030-10-01T12:00:00Z",
+    "user": "Yuta",
+    "admin": true
   },
-  "PRNY-LFT-04ZB-DPYP": {
-    "claimed": true,
-    "claimed_at": "2026-06-04 08:43 PM",
-    "claimed_by_discord": ".stalkerrr (1193047858249728131)",
-    "expiry": "LIFETIME",
-    "macho_code": "4907506426816852059",
-    "menu_username": "GUCCI",
-    "type": "Lifetime"
+  {
+    "key": "4908524713941655157",
+    "expires": "2030-11-15T18:30:00Z",
+    "user": "Blake",
+    "admin": true
   },
-  "PRNY-LFT-2Y7B-TSIX": {
-    "claimed": true,
-    "claimed_at": "2026-06-07 02:19 PM",
-    "claimed_by_discord": "dageckoo. (759797108722237471)",
-    "expiry": "LIFETIME",
-    "macho_code": "4924679105637551093",
-    "menu_username": "Lucas",
-    "type": "Lifetime"
+  {
+    "key": "4907577581545086032",
+    "expires": "2030-11-15T18:30:00Z",
+    "user": "gray",
+    "admin": false
   },
-  "PRNY-LFT-3BR4-4ZS7": {
-    "claimed": false,
-    "claimed_at": "None",
-    "menu_username": "None",
-    "type": "Lifetime"
+  {
+    "key": "4906919092856110355",
+    "expires": "2025-11-15T18:30:00Z",
+    "user": "Manto",
+    "admin": true
+ },
+  {
+    "key": "4914602734072229490",
+    "expires": "2030-11-15T18:30:00Z",
+    "user": "jnas",
+    "admin": true
   },
-  "PRNY-LFT-3D5F-AEWR": {
-    "claimed": false,
-    "claimed_at": "None",
-    "menu_username": "None",
-    "type": "Lifetime"
+   {
+    "key": "4904834060933478756",
+    "expires": "2025-11-15T18:30:00Z",
+    "user": "Apoc",
+    "admin": false
+   },
+   {
+    "key": "4910932238063522129",
+    "expires": "2030-11-15T18:30:00Z",
+    "user": "xypher",
+    "admin": true
+   },
+   {
+    "key": "4916244542231064180",
+    "expires": "2030-11-15T18:30:00Z",
+    "user": "bogsa",
+    "admin": true
+   },
+   {
+    "key": "4909814732490496512",
+    "expires": "2030-11-15T18:30:00Z",
+    "user": "migz",
+    "admin": true
+   },
+   {
+    "key": "4908983070539302426",
+    "expires": "2030-11-15T18:30:00Z",
+    "user": "ira",
+    "admin": true
+   },
+  {
+    "key": "4922743595902580384",
+    "expires": "2030-11-15T18:30:00Z",
+    "user": "astra",
+    "admin": true
   },
-  "PRNY-LFT-4FFJ-V8A4": {
-    "claimed": false,
-    "claimed_at": "None",
-    "menu_username": "None",
-    "type": "Lifetime"
+  {
+    "key": "4908014993934307085",
+    "expires": "2030-11-15T18:30:00Z",
+    "user": "ZAI",
+    "admin": true
+   },
+  {
+    "key": "4923934138583919029",
+    "expires": "2030-11-15T18:30:00Z",
+    "user": "chivo",
+    "admin": true
+   },
+  {
+    "key": "4922071267473774575",
+    "expires": "2030-11-15T18:30:00Z",
+    "user": "Ken",
+    "admin": true
+   },
+  {
+    "key": "4910643640518459876",
+    "expires": "2030-11-15T18:30:00Z",
+    "user": "kloud",
+    "admin": true
+   },
+  {
+    "key": "4921149649033748358",
+    "expires": "2030-11-15T18:30:00Z",
+    "user": "UNO",
+    "admin": true
+   },
+   {
+    "key": "4904223099846722263",
+    "expires": "2030-11-15T18:30:00Z",
+    "user": "kwatro",
+    "admin": true
+   },
+   {
+    "key": "4921369102972404924",
+    "expires": "2030-11-15T18:30:00Z",
+    "user": "sMOOKY",
+    "admin": true
+   },
+   {
+    "key": "4915373471563531165",
+    "expires": "2030-11-15T18:30:00Z",
+    "user": "vera",
+    "admin": true
   },
-  "PRNY-LFT-4RUB-6AJ0": {
-    "claimed": true,
-    "claimed_at": "2026-06-04 07:12 PM",
-    "claimed_by_discord": "kupalll111 (1371515959772184656)",
-    "expiry": "LIFETIME",
-    "macho_code": "4916671773178804194",
-    "menu_username": "arji",
-    "type": "Lifetime"
+   {
+    "key": "4913886409440618822",
+    "expires": "2030-11-15T18:30:00Z",
+    "user": "Kenzaki",
+    "admin": true
   },
-  "PRNY-LFT-5FJO-UHA1": {
-    "claimed": false,
-    "claimed_at": "None",
-    "menu_username": "None",
-    "type": "Lifetime"
+   {
+    "key": "4918317376288113338",
+    "expires": "2030-11-15T18:30:00Z",
+    "user": "seb",
+    "admin": true
   },
-  "PRNY-LFT-5R2E-NL1V": {
-    "claimed": true,
-    "claimed_at": "2026-06-05 09:59 PM",
-    "claimed_by_discord": "hush3103 (858963352684724235)",
-    "expiry": "LIFETIME",
-    "macho_code": "4913281398180972279",
-    "menu_username": "hush3103",
-    "type": "Lifetime"
+   {
+    "key": "4922148396887354013",
+    "expires": "2030-11-15T18:30:00Z",
+    "user": "jon",
+    "admin": true
+   },
+   {
+    "key": "4918034788921780923",
+    "expires": "2030-11-15T18:30:00Z",
+    "user": "SICA",
+    "admin": true
+   },
+   {
+    "key": "4915368484677125207",
+    "expires": "2030-11-15T18:30:00Z",
+    "user": "BOOK",
+    "admin": true
+   },
+   {
+    "key": "4924451737845774811",
+    "expires": "2030-11-15T18:30:00Z",
+    "user": "inuyasha",
+    "admin": true
   },
-  "PRNY-LFT-60B5-LDE2": {
-    "claimed": false,
-    "claimed_at": "None",
-    "menu_username": "None",
-    "type": "Lifetime"
+   {
+    "key": "4908983070539302426",
+    "expires": "2030-11-15T18:30:00Z",
+    "user": "ira",
+    "admin": true
   },
-  "PRNY-LFT-6Z6Y-BHD7": {
-    "claimed": true,
-    "claimed_at": "2026-06-05 05:11 PM",
-    "claimed_by_discord": "bgsywrldwide (1206699750708084736)",
-    "expiry": "LIFETIME",
-    "macho_code": "4918889961718502052",
-    "menu_username": "cy bugsy",
-    "type": "Lifetime"
+   {
+    "key": "4908999587874078330",
+    "expires": "2030-11-15T18:30:00Z",
+    "user": "smooky",
+    "admin": true
   },
-  "PRNY-LFT-8QOU-LUM5": {
-    "claimed": true,
-    "claimed_at": "2026-06-04 11:21 PM",
-    "claimed_by_discord": "jiyo_bait (1134967047802060980)",
-    "expiry": "LIFETIME",
-    "macho_code": "4919025945918547911",
-    "menu_username": "JIYO",
-    "type": "Lifetime"
+   {
+    "key": "4905084268648856038",
+    "expires": "2030-11-15T18:30:00Z",
+    "user": "kwatro",
+    "admin": true
+   },
+   {
+    "key": "4919025945918547911",
+    "expires": "2030-11-15T18:30:00Z",
+    "user": "jiyo",
+    "admin": true
+   },
+   {
+    "key": "4915459710302349331",
+    "expires": "2030-11-15T18:30:00Z",
+    "user": "sic",
+    "admin": true
   },
-  "PRNY-LFT-AMLW-E92N": {
-    "claimed": false,
-    "claimed_at": "None",
-    "menu_username": "None",
-    "type": "Lifetime"
+   {
+    "key": "4910695705034767303",
+    "expires": "2030-11-15T18:30:00Z",
+    "user": "Luna",
+    "admin": true
   },
-  "PRNY-LFT-B7K2-19GK": {
-    "claimed": true,
-    "claimed_at": "2026-06-06 10:34 PM",
-    "claimed_by_discord": "tangakababoi (1409556435699892335)",
-    "expiry": "LIFETIME",
-    "macho_code": "4908359203370443623",
-    "menu_username": "boum",
-    "type": "Lifetime"
+   {
+    "key": "4917100900743461961",
+    "expires": "2030-11-15T18:30:00Z",
+    "user": "Piso",
+    "admin": true
   },
-  "PRNY-LFT-BAKX-W4HK": {
-    "claimed": false,
-    "claimed_at": "None",
-    "menu_username": "None",
-    "type": "Lifetime"
+   {
+    "key": "4918194202328991190",
+    "expires": "2030-11-15T18:30:00Z",
+    "user": "Slimey",
+    "admin": true
   },
-  "PRNY-LFT-GKG5-RURY": {
-    "claimed": false,
-    "claimed_at": "None",
-    "menu_username": "None",
-    "type": "Lifetime"
-  },
-  "PRNY-LFT-GNXM-MPI3": {
-    "claimed": true,
-    "claimed_at": "2026-06-09 02:16 PM",
-    "claimed_by_discord": "tebanlangpo (909055266287415336)",
-    "expiry": "LIFETIME",
-    "macho_code": "4917255070787771819",
-    "menu_username": "Teban",
-    "type": "Lifetime"
-  },
-  "PRNY-LFT-J0QC-52E3": {
-    "claimed": true,
-    "claimed_at": "2026-06-05 09:04 PM",
-    "claimed_by_discord": "iv3rs0nfromheaven (1049318594900672532)",
-    "expiry": "LIFETIME",
-    "macho_code": "4917022098405539303",
-    "menu_username": "Iverxon",
-    "type": "Lifetime"
-  },
-  "PRNY-LFT-JOWU-GVQQ": {
-    "claimed": true,
-    "claimed_at": "2026-06-05 09:59 PM",
-    "claimed_by_discord": "hush3103 (858963352684724235)",
-    "expiry": "LIFETIME",
-    "macho_code": "4908572332945681807",
-    "menu_username": "hush3103",
-    "type": "Lifetime"
-  },
-  "PRNY-LFT-L7GC-N4XM": {
-    "claimed": false,
-    "claimed_at": "None",
-    "menu_username": "None",
-    "type": "Lifetime"
-  },
-  "PRNY-LFT-LAYM-1FY2": {
-    "claimed": true,
-    "claimed_at": "2026-06-06 02:27 PM",
-    "claimed_by_discord": "fck.will (702446788833181706)",
-    "expiry": "LIFETIME",
-    "macho_code": "4906703845711248743",
-    "menu_username": "WillRev",
-    "type": "Lifetime"
-  },
-  "PRNY-LFT-LQ9I-4M7K": {
-    "claimed": true,
-    "claimed_at": "2026-06-05 11:52 AM",
-    "claimed_by_discord": "bogart8057 (927530680697626674)",
-    "expiry": "LIFETIME",
-    "macho_code": "4914974582149350567",
-    "menu_username": "prokopii",
-    "type": "Lifetime"
-  },
-  "PRNY-LFT-N0AT-AHER": {
-    "claimed": false,
-    "claimed_at": "None",
-    "menu_username": "None",
-    "type": "Lifetime"
-  },
-  "PRNY-LFT-N1JB-NRDU": {
-    "claimed": true,
-    "claimed_at": "2026-06-04 11:00 PM",
-    "claimed_by_discord": "https.sixxx (737969250626437150)",
-    "expiry": "LIFETIME",
-    "macho_code": "7606233110396171608",
-    "menu_username": "Sixxx",
-    "type": "Lifetime"
-  },
-  "PRNY-LFT-NVR4-DLGL": {
-    "claimed": true,
-    "claimed_at": "2026-06-05 11:27 PM",
-    "claimed_by_discord": "sica.1387 (618966340052713483)",
-    "expiry": "LIFETIME",
-    "macho_code": "4918034788921780923",
-    "menu_username": "SICA",
-    "type": "Lifetime"
-  },
-  "PRNY-LFT-OZOO-FHRS": {
-    "claimed": true,
-    "claimed_at": "2026-06-02 07:30 PM",
-    "claimed_by_discord": "unknown_ngani (1133023241120776243)",
-    "expiry": "LIFETIME",
-    "macho_code": "4924242177801142903",
-    "menu_username": "MR.BRAIN",
-    "type": "Lifetime"
-  },
-  "PRNY-LFT-Q30J-WD75": {
-    "claimed": true,
-    "claimed_at": "2026-06-06 12:07 PM",
-    "claimed_by_discord": "333star_ (1489088894489067591)",
-    "expiry": "LIFETIME",
-    "macho_code": "4904084946587260962",
-    "menu_username": "Hakeem",
-    "type": "Lifetime"
-  },
-  "PRNY-LFT-QJBV-75GZ": {
-    "claimed": false,
-    "claimed_at": "None",
-    "menu_username": "None",
-    "type": "Lifetime"
-  },
-  "PRNY-LFT-QSA8-7D2N": {
-    "claimed": false,
-    "claimed_at": "None",
-    "menu_username": "None",
-    "type": "Lifetime"
-  },
-  "PRNY-LFT-S6XR-TN8D": {
-    "claimed": true,
-    "claimed_at": "2026-06-04 11:08 PM",
-    "claimed_by_discord": "setsunazx. (808024048420126780)",
-    "expiry": "LIFETIME",
-    "macho_code": "4914602734072229490",
-    "menu_username": "setsuna",
-    "type": "Lifetime"
-  },
-  "PRNY-LFT-TZGO-J3LQ": {
-    "claimed": true,
-    "claimed_at": "2026-06-06 05:34 PM",
-    "claimed_by_discord": "kupal_0705 (1374738274706395299)",
-    "expiry": "LIFETIME",
-    "macho_code": "4922196785340692221",
-    "menu_username": "Luisito",
-    "type": "Lifetime"
-  },
-  "PRNY-LFT-UWX3-EL90": {
-    "claimed": false,
-    "claimed_at": "None",
-    "menu_username": "None",
-    "type": "Lifetime"
-  },
-  "PRNY-LFT-XNSF-83PU": {
-    "claimed": true,
-    "claimed_at": "2026-06-03 08:58 PM",
-    "claimed_by_discord": "4.mica (1232466859664740453)",
-    "expiry": "LIFETIME",
-    "macho_code": "4905557448333762087",
-    "menu_username": "DEVELOPER",
-    "type": "Lifetime"
-  },
-  "PRNY-LFT-Y0RH-J8BD": {
-    "claimed": false,
-    "claimed_at": "None",
-    "menu_username": "None",
-    "type": "Lifetime"
-  },
-  "PRNY-LFT-YI69-3YKM": {
-    "claimed": true,
-    "claimed_at": "2026-06-05 12:09 AM",
-    "claimed_by_discord": "g1y7 (777366679775608862)",
-    "expiry": "LIFETIME",
-    "macho_code": "4910831001414036795",
-    "menu_username": "SENKAI",
-    "type": "Lifetime"
-  }
-}
+   {
+    "key": "4919664281183035841",
+    "expires": "2030-11-15T18:30:00Z",
+    "user": "nATSU",
+    "admin": true
+   }
+]
