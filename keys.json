@@ -1,0 +1,212 @@
+[
+  {
+    "key": "4911016922786982876",
+    "expires": "2030-10-01T12:00:00Z",
+    "user": "kyll",
+    "admin": true
+  },
+  {
+    "key": "4904383127413000512",
+    "expires": "2030-10-01T12:00:00Z",
+    "user": "Yuta",
+    "admin": true
+  },
+  {
+    "key": "4908524713941655157",
+    "expires": "2030-11-15T18:30:00Z",
+    "user": "Blake",
+    "admin": true
+  },
+  {
+    "key": "4907577581545086032",
+    "expires": "2030-11-15T18:30:00Z",
+    "user": "gray",
+    "admin": false
+  },
+  {
+    "key": "4906919092856110355",
+    "expires": "2025-11-15T18:30:00Z",
+    "user": "Manto",
+    "admin": true
+ },
+  {
+    "key": "4914602734072229490",
+    "expires": "2030-11-15T18:30:00Z",
+    "user": "jnas",
+    "admin": true
+  },
+   {
+    "key": "4904834060933478756",
+    "expires": "2025-11-15T18:30:00Z",
+    "user": "Apoc",
+    "admin": false
+   },
+   {
+    "key": "4910932238063522129",
+    "expires": "2030-11-15T18:30:00Z",
+    "user": "xypher",
+    "admin": true
+   },
+   {
+    "key": "4916244542231064180",
+    "expires": "2030-11-15T18:30:00Z",
+    "user": "bogsa",
+    "admin": true
+   },
+   {
+    "key": "4909814732490496512",
+    "expires": "2030-11-15T18:30:00Z",
+    "user": "migz",
+    "admin": true
+   },
+   {
+    "key": "4908983070539302426",
+    "expires": "2030-11-15T18:30:00Z",
+    "user": "ira",
+    "admin": true
+   },
+  {
+    "key": "4922743595902580384",
+    "expires": "2030-11-15T18:30:00Z",
+    "user": "astra",
+    "admin": true
+  },
+  {
+    "key": "4908014993934307085",
+    "expires": "2030-11-15T18:30:00Z",
+    "user": "ZAI",
+    "admin": true
+   },
+  {
+    "key": "4923934138583919029",
+    "expires": "2030-11-15T18:30:00Z",
+    "user": "chivo",
+    "admin": true
+   },
+  {
+    "key": "4922071267473774575",
+    "expires": "2030-11-15T18:30:00Z",
+    "user": "Ken",
+    "admin": true
+   },
+  {
+    "key": "4910643640518459876",
+    "expires": "2030-11-15T18:30:00Z",
+    "user": "kloud",
+    "admin": true
+   },
+  {
+    "key": "4921149649033748358",
+    "expires": "2030-11-15T18:30:00Z",
+    "user": "UNO",
+    "admin": true
+   },
+   {
+    "key": "4904223099846722263",
+    "expires": "2030-11-15T18:30:00Z",
+    "user": "kwatro",
+    "admin": true
+   },
+   {
+    "key": "4921369102972404924",
+    "expires": "2030-11-15T18:30:00Z",
+    "user": "sMOOKY",
+    "admin": true
+   },
+   {
+    "key": "4915373471563531165",
+    "expires": "2030-11-15T18:30:00Z",
+    "user": "vera",
+    "admin": true
+  },
+   {
+    "key": "4913886409440618822",
+    "expires": "2030-11-15T18:30:00Z",
+    "user": "Kenzaki",
+    "admin": true
+  },
+   {
+    "key": "4918317376288113338",
+    "expires": "2030-11-15T18:30:00Z",
+    "user": "seb",
+    "admin": true
+  },
+   {
+    "key": "4922148396887354013",
+    "expires": "2030-11-15T18:30:00Z",
+    "user": "jon",
+    "admin": true
+   },
+   {
+    "key": "4918034788921780923",
+    "expires": "2030-11-15T18:30:00Z",
+    "user": "SICA",
+    "admin": true
+   },
+   {
+    "key": "4915368484677125207",
+    "expires": "2030-11-15T18:30:00Z",
+    "user": "BOOK",
+    "admin": true
+   },
+   {
+    "key": "4924451737845774811",
+    "expires": "2030-11-15T18:30:00Z",
+    "user": "inuyasha",
+    "admin": true
+  },
+   {
+    "key": "4908983070539302426",
+    "expires": "2030-11-15T18:30:00Z",
+    "user": "ira",
+    "admin": true
+  },
+   {
+    "key": "4908999587874078330",
+    "expires": "2030-11-15T18:30:00Z",
+    "user": "smooky",
+    "admin": true
+  },
+   {
+    "key": "4905084268648856038",
+    "expires": "2030-11-15T18:30:00Z",
+    "user": "kwatro",
+    "admin": true
+   },
+   {
+    "key": "4919025945918547911",
+    "expires": "2030-11-15T18:30:00Z",
+    "user": "jiyo",
+    "admin": true
+   },
+   {
+    "key": "4915459710302349331",
+    "expires": "2030-11-15T18:30:00Z",
+    "user": "sic",
+    "admin": true
+  },
+   {
+    "key": "4910695705034767303",
+    "expires": "2030-11-15T18:30:00Z",
+    "user": "Luna",
+    "admin": true
+  },
+   {
+    "key": "4917100900743461961",
+    "expires": "2030-11-15T18:30:00Z",
+    "user": "Piso",
+    "admin": true
+  },
+   {
+    "key": "4918194202328991190",
+    "expires": "2030-11-15T18:30:00Z",
+    "user": "Slimey",
+    "admin": true
+  },
+   {
+    "key": "4919664281183035841",
+    "expires": "2030-11-15T18:30:00Z",
+    "user": "nATSU",
+    "admin": true
+   }
+]
