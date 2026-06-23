@@ -1,2 +1,0 @@
-# macho-keys
-MACHO AUTHKEY
